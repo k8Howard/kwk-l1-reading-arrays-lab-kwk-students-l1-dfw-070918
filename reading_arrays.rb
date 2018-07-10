@@ -34,5 +34,5 @@ end
 
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
-  room.first_second_and_third_students
+  array = [STUDENT_NAMES[0], STUDENT_NAMES[1], STUDENT_NAMES[2]]
 end
