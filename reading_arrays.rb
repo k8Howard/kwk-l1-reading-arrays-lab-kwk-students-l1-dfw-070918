@@ -34,5 +34,5 @@ end
 
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
-  room.
+  room.first_second_and_third_students
 end
